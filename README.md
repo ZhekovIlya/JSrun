@@ -1,0 +1,1 @@
+Try to implement kinopoisk app using native JS. Thanks to Glo, and themoviedb API.
